@@ -22,10 +22,9 @@ const compute = async() => {
 
   //Result
   console.log(`Day 1 : Advent of Coding : Climbing Stairs`);
-  console.log(`Santa wondered up and down: ${INPUT.length} stairs`);
-  console.log(`Santa finished looking of the Christmas tree on floor: ${floor}`);
-  console.log(`Santa submerges to the basement on step: ${stepsUntilBasement}`);
-}
+  console.log(`Santa wondered up and down: ${INPUT.length} stairs`); /* 7000 */
+  console.log(`Santa finished looking of the Christmas tree on floor: ${floor}`); /* 232 */
+  console.log(`Santa submerges to the basement on step: ${stepsUntilBasement}`); /* 1783 */
 
 //Utility Method:
 const readInput = async(file) => 
