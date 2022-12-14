@@ -1,4 +1,4 @@
-/* Advent of Coding : Climbing Stairs 
+/* Advent of Coding : 1 : Climbing Stairs 
 https://adventofcode.com/2015/day/1 */
 
 const fs = require('fs');
